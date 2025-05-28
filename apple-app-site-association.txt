@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "details" : [
+      {
+        "appID": "MG2LSJNJB6.com.orange.labs.cocoa.dialler",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
