@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["JNVAG2CN37.com.orange.telephone", "MG2LSJNJB6.com.orange.labs.cocoa.dialler", "269J2W3P7L.com.orange.labs.dialler", "B9YP84K776.com.orange.labs.diallerios"],
+        "components": [ {
+            "/": "/store",
+            "comment": "Matches the URL corresponding to /store"
+        },
+        {
+            "/": "/storepro",
+            "comment": "Matches the URL corresponding to /storepro"
+        }]
+      }
+    ]
+  }
+}
